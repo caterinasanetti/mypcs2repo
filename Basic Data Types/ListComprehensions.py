@@ -10,4 +10,3 @@ for i in range(x+1):
             if(i+j+k != n):
                 result.append([i,j,k])
 print(result)
-
